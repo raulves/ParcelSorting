@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelSorting", "ParcelSort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParcelSortingTest", "ParcelSortingTest\ParcelSortingTest.csproj", "{4C40C955-12DE-4123-B1DD-4363A8167B46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CV", "CV\CV.csproj", "{7EBADE7F-6602-4264-8673-717700C85DC3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{4C40C955-12DE-4123-B1DD-4363A8167B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C40C955-12DE-4123-B1DD-4363A8167B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C40C955-12DE-4123-B1DD-4363A8167B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EBADE7F-6602-4264-8673-717700C85DC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBADE7F-6602-4264-8673-717700C85DC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBADE7F-6602-4264-8673-717700C85DC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBADE7F-6602-4264-8673-717700C85DC3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
