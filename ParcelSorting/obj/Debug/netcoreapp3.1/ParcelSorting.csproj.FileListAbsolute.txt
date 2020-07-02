@@ -1,0 +1,12 @@
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/bin/Debug/netcoreapp3.1/ParcelSorting.deps.json
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/bin/Debug/netcoreapp3.1/ParcelSorting.runtimeconfig.json
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/bin/Debug/netcoreapp3.1/ParcelSorting.runtimeconfig.dev.json
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/bin/Debug/netcoreapp3.1/ParcelSorting.dll
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/bin/Debug/netcoreapp3.1/ParcelSorting.pdb
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.csprojAssemblyReference.cache
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.AssemblyInfoInputs.cache
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.AssemblyInfo.cs
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.csproj.CoreCompileInputs.cache
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.dll
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.pdb
+/Users/raul/Documents/ITSystems/Synerall/ParcelSorting/ParcelSorting/obj/Debug/netcoreapp3.1/ParcelSorting.genruntimeconfig.cache
